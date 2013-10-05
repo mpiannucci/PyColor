@@ -1,10 +1,9 @@
-
 """ Use this module to simply print to the command line in color
 	For python 2.7
 
 	Usage:
-	print bcolors.WARNING + "Warning: No active frommets remain. Continue?" 
-      + bcolors.ENDC
+	print color.Yellow + "Warning: No active frommets remain. Continue?" 
+      + color.ENDC
 """
 
 class color:
