@@ -4,7 +4,7 @@ class PyColor:
     GREEN = '\033[92m'
     YELLOW = '\033[93m'
     RED = '\033[91m'
-    ENDC = '\033[0m'
+    DEFAULT = '\033[0m'
 
     def Disable(self):
         self.PURPLE = ''
@@ -12,4 +12,3 @@ class PyColor:
         self.GREEN = ''
         self.YELLOW = ''
         self.RED = ''
-        self.ENDC = ''
