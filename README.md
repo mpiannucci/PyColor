@@ -1,4 +1,4 @@
-pyColors
+PyColor
 ========
 
 Module to print to the terminal in color with python!
